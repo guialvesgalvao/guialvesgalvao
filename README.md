@@ -23,5 +23,3 @@
   <div align="right"><a href="https://www.linkedin.com/in/guilherme-galv%C3%A3o-b7913620b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
   
 </div>
-
-![Snake animation](https://github.com/rafaballerini/guialvesgalvao/blob/output/github-contribution-grid-snake.svg)
