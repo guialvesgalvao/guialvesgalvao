@@ -2,7 +2,7 @@
 
 - 🔨 Atualmente trabalho em um projeto de desenvolvimento front-end da plataforma ColabEduc em NextJS
 - 📕 Meus estudos estão focados na parte de NextJS e desenvolvimento front-end em geral
-- 🎓 Estudo Ciência e Tecnologia na Universidade Federal do Rio Grande do Norte
+- 🎓 Estudo Ciência e Tecnologia na Universidade Federal do ABC
 - 🔎 Procuro oportunidade profissional na área de dev front-end
 
 <hr>
