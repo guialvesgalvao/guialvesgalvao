@@ -4,6 +4,7 @@
 - 📕 Meus estudos estão focados na parte de NextJS e desenvolvimento front-end em geral
 - 🎓 Estudo Ciência e Tecnologia na Universidade Federal do ABC
 - 🔎 Procuro oportunidade profissional na área de dev front-end
+- 🚀 Acesse meu site: https://silver-puffpuff-01dce8.netlify.app/
 
 <hr>
 
