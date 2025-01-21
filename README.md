@@ -6,8 +6,8 @@
 - 🔎 Procuro oportunidade profissional na área de dev front-end
 - 🚀 Acesse meu site: https://silver-puffpuff-01dce8.netlify.app/
 
-<hr>
-
+<hr> 
+  
  <div>
   <a href="https://github.com/guialvesgalvao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guialvesgalvao&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
